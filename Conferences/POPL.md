@@ -4,12 +4,13 @@ analysis, and implementation of programming languages, programming
 systems, and programming interfaces. POPL is in-cooperation with
 [SIGACT](http://www.acm.org/sigact).   
 
+
 **POPL Fast Facts**
-> [POPL 2013 Web Page](http://popl.mpi-sws.org/2013/)  
-> Location: Rome, Italy  
-> General Chair: Roberto Giacobazzi  
-> Program Chair: Radhia Cousot  
-> Dates: January 23-25, 2013  
+> [POPL 2014 Web Page](http://popl.mpi-sws.org/2014/)  
+> Location: San Diego, USA  
+> General Chair: [Suresh Jagannathan](http://www.cs.purdue.edu/homes/suresh/)  
+> Program Chair: [Peter Sewell](http://www.cl.cam.ac.uk/~pes20/)  
+> Dates: January 22-24, 2014  
 
 **Most Influential POPL Paper Award**
 Each year a "Most Influential" POPL paper is chosen and an
@@ -58,6 +59,7 @@ It is recommended that the PC chair:
     reviews of his/her paper in advance of the meeting.  
 
 **Web Pages of Previous Conferences**  
+> [POPL 2013](http://popl.mpi-sws.org/2013/)  (Rome, Italy)  
 > [POPL 2012](http://www.cse.psu.edu/popl/12/) (Philadelphia, PA)  
 > [POPL 2011](http://www.cse.psu.edu/popl/11/) (Austin, TX)  
 > [POPL 2010](http://www.cse.psu.edu/popl/10/) (Madrid, Spain)  

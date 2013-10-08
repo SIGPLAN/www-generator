@@ -36,27 +36,9 @@ The current POPL steering committee is:
 -   Thomas Ball, 2011 General Chair
 -   Mooly Sagiv, 2011 Program Chair
 
-**Recommendations to POPL Program Committee chairs**
-
-The aim of the following recommendations to POPL Program Committee
-chairs is to avoid some known pitfalls in the paper selection
-process. While not required except where noted, the recommendations
-are based on the experience of the POPL Steering Committee.
-It is recommended that the PC chair:
--   forbid the PC chair from co-authoring a paper (a SIGPLAN
-    requirement),
--   forbid the general chair from co-authoring a paper,
--   forbid submissions authored exclusively by PC members,
--   hold PC papers to a higher standard; one practice that has
-    worked well is to accept a PC paper only if it falls into the
-    'accept without discussion' category; any significant doubt or
-    disagreement indicates rejection,
--   ensure that any authors leave the room during any detailed
-    discussion of their paper; and refrain from comment (of any kind)
-    if their paper is referred to at other times, and
--   if using the author-response option, then exclude PC papers
-    from the response period so the PC member doesn't get to see the
-    reviews of his/her paper in advance of the meeting.  
+**Principles of POPL**
+ 
+  * Principles of POPL document
 
 **Web Pages of Previous Conferences**  
 > [POPL 2013](http://popl.mpi-sws.org/2013/)  (Rome, Italy)  

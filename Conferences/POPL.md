@@ -38,7 +38,9 @@ The current POPL steering committee is:
 
 **Principles of POPL**
  
-  * Principles of POPL document
+  * [Principles of POPL](http://dl.acm.org/citation.cfm?doid=2502508.2502517), 
+    ACM SIGPLAN Notices - Supplemental issue,
+    Volume 48 Issue 4S, April 2013, pp 12-16.
 
 **Web Pages of Previous Conferences**  
 > [POPL 2013](http://popl.mpi-sws.org/2013/)  (Rome, Italy)  

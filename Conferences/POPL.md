@@ -13,6 +13,7 @@ systems, and programming interfaces. POPL is in-cooperation with
 > Dates: January 22-24, 2014  
 
 **Most Influential POPL Paper Award**
+
 Each year a "Most Influential" POPL paper is chosen and an
 presentation is made at POPL. More details about this award and
 past winning papers can be found [here](Awards/Conferences/POPL/Main). SIGPLAN

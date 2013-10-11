@@ -7,11 +7,11 @@ emulators, and simulators.
 
 **VEE Fast Facts**  
 
-> Location: Houston, Texas co-located with ASPLOS  
-> General Chair: [Steve Muir](http://www.linkedin.com/in/9muir) (VMware)  
-> Program co-Chairs: [Steve Blackburn](http://users.cecs.anu.edu.au/~steveb) (Australian National University), [Gernot Heiser](http://www.cse.unsw.edu.au/~gernot) (University of New South Wales)  
-> Dates: March 16-17, 2013  
-> Website: [http://vee2013.org](http://vee2013.org)  
+> Location: Salt Lake City, Utah, co-located with ASPLOS  
+> General Chair: [Martin Hirzel](http://hirzels.com/martin/) (IBM)  
+> Program co-Chairs: [Erez Petrank](http://www.cs.technion.ac.il/~erez) (Technion) and [Dan Tsafrir](http://www.cs.technion.ac.il/~dan) (Technion)  
+> Dates: March 1-2, 2014  
+> Website: [http://vee2014.org](http://vee2014.org)
 
 **VEE Steering Committee**
 
@@ -28,7 +28,9 @@ The current VEE steering committee is:
 -   [Erez Petrank](http://www.cs.technion.ac.il/~erez/), Technion, Israel Institute of Technology  
 -   [Andrew Warfield](http://www.cs.ubc.ca/~andy/), University of British Columbia  
 
-**Web Pages of Previous Conferences**  
+**Web Pages of Previous Conferences**
+
+> [VEE 2013](http://vee2013.org) (Houston, Texas)  
 > [VEE 2012](http://www.cl.cam.ac.uk/~smh22/vee_2012/) (London, UK)  
 > [VEE 2011](http://www.cs.technion.ac.il/~erez/vee11/VEE_2011/Home_Page.html) (Newport Beach, CA)  
 > [VEE 2010](http://vee2010.cs.princeton.edu/) (Pittsburgh, PA)  

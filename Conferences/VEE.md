@@ -54,6 +54,7 @@ VEE conference will be invited to join the SC, if they are not
 already members.
 
 **Deletions**
+
 When the conference has been held for a number of
 years, members will be removed from the committee based on the date
 of the last time they were general or program chair of VEE. 

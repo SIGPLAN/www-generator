@@ -17,16 +17,15 @@ emulators, and simulators.
 
 The current VEE steering committee is:
 
--   [David F. Bacon](http://domino.research.ibm.com/comm/research_people.nsf/pages/bacon.index.html), IBM Research
--   [Dilma da Silva](https://researcher.ibm.com/researcher/view.php?person=us-dilmasilva), IBM Research
--   [Marc Fiuczynzki](http://www.cs.princeton.edu/~mef/), Princeton University
--   [Steve Hand](http://www.cl.cam.ac.uk/~smh22/), University of Cambridge
--   [Antony Hosking](http://www.cs.purdue.edu/~hosking), Purdue University (Chair)
--   [Orran Krieger](http://www.linkedin.com/pub/orran-krieger/0/146/187), BU
--   [Doug Lea](http://g.oswego.edu/), SUNY Oswego
--   [Brian Noble](http://www.eecs.umich.edu/~bnoble/), University of Michigan  
--   [Erez Petrank](http://www.cs.technion.ac.il/~erez/), Technion, Israel Institute of Technology  
--   [Andrew Warfield](http://www.cs.ubc.ca/~andy/), University of British Columbia  
+-  Steve Blackburn (Australian National U)
+-  Marc Fiuczynski (Akamai)
+-  Steven Hand (U of Cambridge)
+-  Gernot Heiser (NICTA and UNSW)
+-  Doug Lea (SUNY at Oswego)
+-  Steve Muir (VMware)
+-  Brian Noble (U of Michigan)
+-  Erez Petrank (Technion)
+-  Andrew Warfield (UBC)
 
 **Web Pages of Previous Conferences**
 

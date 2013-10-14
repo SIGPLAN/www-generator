@@ -17,15 +17,18 @@ emulators, and simulators.
 
 The current VEE steering committee is:
 
--  Steve Blackburn (Australian National U)
--  Marc Fiuczynski (Akamai)
--  Steven Hand (U of Cambridge)
--  Gernot Heiser (NICTA and UNSW)
--  Doug Lea (SUNY at Oswego)
--  Steve Muir (VMware)
--  Brian Noble (U of Michigan)
--  Erez Petrank (Technion)
--  Andrew Warfield (UBC)
+
+-  [Steve Blackburn](http://users.cecs.anu.edu.au/~steveb/) *(Australian
+National U)*
+-  [Marc Fiuczynski](http://www.linkedin.com/pub/marc-fiuczynski/2/160/221)
+*(Akamai)*
+-  [Steven Hand](http://www.cl.cam.ac.uk/~smh22/) *(U of Cambridge)*
+-  [Gernot Heiser](http://www.cse.unsw.edu.au/~gernot/) *(NICTA and UNSW)*
+-  [Doug Lea](http://g.oswego.edu/) *(SUNY at Oswego)*
+-  [Steve Muir](http://www.linkedin.com/in/9muir) *(VMware)*
+-  [Brian Noble](http://web.eecs.umich.edu/~bnoble) *(U of Michigan)*
+-  [Erez Petrank](http://www.cs.technion.ac.il/~erez) *(Technion)*
+-  [Andrew Warfield](http://www.cs.ubc.ca/~andy/) *(UBC)*
 
 **Web Pages of Previous Conferences**
 

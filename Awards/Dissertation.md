@@ -53,8 +53,8 @@ known for helping colleagues and students work through ideas.
  * [Marieke Huisman](http://wwwhome.ewi.utwente.nl/~marieke/) -  University of Twente
  * [Suresh Jagannathan](http://www.cs.purdue.edu/homes/suresh/)  - Purdue University
  * [Tiziana Margaria ](https://www.cs.uni-potsdam.de/sse/people.html?id=tmargaria) - Universität Potsdam 
-[Peter Müller  - ETH Zürich ](http://www.pm.inf.ethz.ch/people/pmueller
- * Andrey) Rybalchenko http://www7.in.tum.de/~rybal/ - Technische Universität München
+ * [Peter Müller](http://www.pm.inf.ethz.ch/people/pmueller) - ETH Zürich 
+ * [Andrey Rybalchenko](http://www7.in.tum.de/~rybal/) - Technische Universität München
  * [Satnam Singh](https://plus.google.com/110563483361774700563/about) - Google
  * [Uzi Vishkin](http://www.umiacs.umd.edu/~vishkin/index.shtml)  - The University of Maryland
  * [Jan Vitek](http://www.cs.purdue.edu/homes/jv/) - Purdue University (ex officio member as SIGPLAN Chair)

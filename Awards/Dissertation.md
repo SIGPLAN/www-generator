@@ -9,7 +9,7 @@ OOPSLA, POPL, or PLDI.
 
 Nominations must be submitted to the
 [secretary](mailto:secretary_sigplan@acm.org) of SIGPLAN by January
-5th to be considered for that year's award. The nominated dissertation
+5th 2014 to be considered for this year's award. The nominated dissertation
 must be available in an English language version to facilitate
 evaluation by the selection committee and have been awarded in the
 year 2013.

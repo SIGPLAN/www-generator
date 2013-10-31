@@ -30,19 +30,17 @@ field of programming language research.
 
 Reynolds is renowned for a stunning list of deep technical contributions.
 
- * Gedanken, a core untyped language mixing functional and imperative features, which influenced Scheme
+ * Gedanken, a core untyped language mixing functional and imperative features, which influenced Scheme;
  * Defunctionalization, which gives principled ways of constructing compilers;
  * Polymorphic λ-calculus, a fundamental calculus of polymorphic functions, which influenced Java and C# generics;
- * Syntactic control of interference, which includes perhaps the earliest resource-oriented type system, prefiguring linear logic;
+ * Syntactic control of interference, a resource-oriented type system, which prefigured linear logic;
  * λ-calculus with subtypes, which is a foundational component of object-oriented type systems;
- * Idealized Algol, a core typed language for mixing imperative and functional features, similar in many respects to the subsequent approach to their mixture in Haskell;
- * Possible-world semantics for local state, which opened up a research area seeing considerable interest in foundational PL conferences in recent years;
+ * Idealized Algol, a core typed language for mixing imperative and functional features, which prefigured monads in Haskell;
+ * Possible-world semantics for local state, a widely-used technique in programming language theory;
  * Relational parametricity, a fundamental theory of data abstraction;
- * Separation logic, which extended Hoare’s logic to an effective treatment of mutable data structures, which led to many proof tools for programs in realistic languages.
- 
-Reynolds’ work underlies a staggering amount of programming language
-research and he was an inspiration to all he worked with. He was well
-known for helping colleagues and students work through ideas.
+ * Separation logic, an extension of Hoare logic to mutable data structures, which forms the basis of a new generation of proof tools.
+
+Reynolds was an inspiration to all he worked with. He was well known for helping colleagues and students work through ideas. But his influence went well beyond his immediate circle; many researchers who never worked with Reynolds nevertheless built on his ideas.
  
 **Selection Committee**
   

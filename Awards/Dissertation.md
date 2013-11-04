@@ -50,6 +50,7 @@ Reynolds was an inspiration to all he worked with. He was well known for helping
  * [Susan Eisenbach](http://www.imperial.ac.uk/AP/faces/pages/read/Home.jsp?person=s.eisenbach&_adf.ctrl-state=16dpu3khvn_99&_afrRedirect=169130355484999) Imperial College London (SIGPLAN member and Chair)
  * [Marieke Huisman](http://wwwhome.ewi.utwente.nl/~marieke/) -  University of Twente
  * [Suresh Jagannathan](http://www.cs.purdue.edu/homes/suresh/)  - Purdue University
+ * [Xavier Leroy](http://pauillac.inria.fr/~xleroy/) - INRIA Rocquencourt
  * [Tiziana Margaria ](https://www.cs.uni-potsdam.de/sse/people.html?id=tmargaria) - Universität Potsdam 
  * [Peter Müller](http://www.pm.inf.ethz.ch/people/pmueller) - ETH Zürich 
  * [Andrey Rybalchenko](http://www7.in.tum.de/~rybal/) - Technische Universität München

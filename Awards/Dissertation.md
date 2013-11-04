@@ -28,7 +28,7 @@ rigor that Reynolds embodied and at the same time provide a reminder
 of Reynolds's legacy and what a difference a person can make in the
 field of programming language research.
 
-Reynolds is renowned for a stunning list of deep technical contributions.
+Reynolds is renowned for his many technical contributions.
 
  * Gedanken, a core untyped language mixing functional and imperative features, which influenced Scheme;
  * Defunctionalization, which gives principled ways of constructing compilers;

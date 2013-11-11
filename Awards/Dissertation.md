@@ -57,3 +57,4 @@ Reynolds was an inspiration to all he worked with. He was well known for helping
  * [Satnam Singh](https://plus.google.com/110563483361774700563/about) - Google
  * [Uzi Vishkin](http://www.umiacs.umd.edu/~vishkin/index.shtml)  - The University of Maryland
  * [Jan Vitek](http://www.cs.purdue.edu/homes/jv/) - Purdue University (ex officio member as SIGPLAN Chair)
+ * [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) - Technion

@@ -37,7 +37,7 @@ The current VEE steering committee is:
 > [VEE 2009](http://www.cs.purdue.edu/VEE09/Home.html) (Washington, DC)  
 > [VEE 2008](http://vee08.cs.tcd.ie/) (Seattle, WA)  
 > [VEE 2007](http://vee07.cs.ucsb.edu/) (San Diego, CA)  
-> [VEE 2006](http://www.veeconference.org/vee06/) (Ottawa, Canada)  
+> [VEE 2006](http://research.ihost.com/vee/vee06) (Ottawa, Canada)  
 > [VEE 2005](http://research.ihost.com/vee/vee05/index.html) (Chicago, IL)  
 
 **VEE Steering Committee Composition**

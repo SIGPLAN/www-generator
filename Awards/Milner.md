@@ -1,10 +1,9 @@
 The Robin Milner Young Researcher Award is given by ACM SIGPLAN to
 recognize outstanding contributions by young investigators in the
-area of programming languages. Individuals whose computer-related
-professional career (graduate school or full-time employment,
-whichever began first) started no earlier than January 1st of the
-year that is 20 years prior to the time of nomination are eligible.
-The award includes a prize of $2,500.
+area of programming languages. Individuals are eligible if their
+computer-related professional career (graduate school or full-time
+employment, whichever began first) started no earlier than 20 years
+prior to the nominations deadline. The award includes a prize of $2,500.
 
 **Robin Milner** (13 January, 1934 - 20 March, 2010)
 
@@ -82,24 +81,12 @@ Because these awards are intended to recognize persons and software systems of m
 
 **Clarification**
 
-One point of note concerning the Milner award:
+Clarification:
 
-Several people have inquired about eligibility for this award,
-because it seems the eligibility requirement is confusingly
-worded.  The intention of the award description was that, for the 2013
-award, individuals are eligible whose computer-related professional
-career (graduate school or full-time employment, whichever began
-first) started no earlier than January 1, 1993.  However, the award
-description as written can also be reasonably interpreted to mean
-that, so long as the *nomination* is submitted by the end of this
-calendar year (December 31, 2012), the candidate is eligible so long
-as their professional career started no earlier than January 1, 1992.
+Note that, in consultation with the ACM Awards Board, the wording of
+the Milner Award eligibility requirement has been updated to clarify
+that the 20-year time frame is in relation to the nomination
+*deadline* (rather than the vague "time of nomination" as was
+originally written).
 
-Therefore, for this year, the SIGPLAN Executive Committee has decided
-to accept the latter, more liberal interpretation of the requirement.
-In the next year, the SIGPLAN EC will work to revise and clarify the
-eligibility requirement.  We apologize for any confusion.  If you have
-any further questions regarding eligibility, please direct them to
-milner_award@sigplan.org.
-
--- Derek Dreyer
+-- Derek Dreyer (on behalf of the SIGPLAN Executive Committee)

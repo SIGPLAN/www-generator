@@ -81,8 +81,6 @@ Because these awards are intended to recognize persons and software systems of m
 
 **Clarification**
 
-Clarification:
-
 Note that, in consultation with the ACM Awards Board, the wording of
 the Milner Award eligibility requirement has been updated to clarify
 that the 20-year time frame is in relation to the nomination

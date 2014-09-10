@@ -1,6 +1,6 @@
 # Convert MySQL to Haskell structures
 
-$db = "SIGPLAN-2013-09-08T12-07-35.mysql";
+$db = "SIGPLAN-2014-09-04T17-20-27.mysql";
 #$db = "X.mysql";
 $field_re = '(\'(\\\\.|[^\'\\\\]+)*\'|null)';
 

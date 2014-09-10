@@ -1,1 +1,6 @@
 *~
+X.hs
+*.mysql
+Main
+*.hi
+*.o

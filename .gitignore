@@ -4,3 +4,4 @@ X.hs
 Main
 *.hi
 *.o
+Scraper

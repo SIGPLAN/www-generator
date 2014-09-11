@@ -1,0 +1,38 @@
+---
+layout: default
+title: "2014: Sumit Gulwani"
+---
+Sumit Gulwani has made pioneering contributions to the field of
+programming languages, especially in the areas of program analysis and
+program synthesis.  Building on his foundational work in program
+analysis including using randomized algorithms, improving abstract
+interpretation, and reasoning about programs as continuous functions,
+Dr. Gulwani recognized the important connection between program
+verification and program synthesis.  His research has demonstrated
+that imprecise human intent, in the form of examples, natural
+language, and other kinds of input, can be transformed into incomplete
+program specifications, which together with ranking techniques can
+then be used to synthesize intended programs, empowering users to
+accomplish complex and repetitive programming tasks without needing
+any knowledge of programming. His contributions include algorithms for
+synthesizing string transformation programs by examples, published in
+POPL 2011, and the technical basis for "Flash Fill", a new feature
+shipping in Microsoft's Excel 2013.  He has since then extended this
+line of algorithmic work to synthesizing programs in several other
+important domains and also broadly advertised this line of work by
+publishing in top-tier ACM conferences in various other areas
+including AI, machine learning, HCI, databases, and knowledge
+discovery. He has also championed the application of program synthesis
+techniques to developing intelligent tutoring systems for numerous
+subject domains including introductory programming, mathematics,
+logic, and automata theory.  The visionary aspects of his work were
+recently recognized by the CACM Editorial Board when two of his recent
+papers appeared as CACM Research Highlights in the same issue, and a
+summary of his work on computer-aided Education was accepted to appear
+as a CACM article.
+
+In summary, Dr. Gulwani is a highly motivated, creative, and
+inter-disciplinary researcher whose vision is to empower computer
+users around the world to be more productive and educated.  His
+insights in using program synthesis to address problems in end-user
+programming and education will have deep and lasting influence.

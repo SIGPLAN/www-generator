@@ -1,0 +1,23 @@
+---
+layout: default
+title: "2014: Aaron Turon"
+---
+Northeastern University   
+
+Advisor: Mitchell Wand
+ 
+Understanding and Expressing Scalable Concurrency
+
+Aaron Turon's dissertation makes several major contributions to the
+design, implementation, and verification of scalable concurrent
+programs.  First, the dissertation presents "reagents", a high-level
+language of combinators for designing---and *composing*---lock-free
+data structures.  Second, the dissertation shows how lock-free data
+structures can be used to scalably implement Fournet and Gonthier's
+join calculus, in a newly re-engineered C# library that significantly
+outperforms prior lock-based implementations.  Third, the dissertation
+develops powerful theoretical foundations---based on logical relations
+and separation logic---for verifying the correctness of scalable
+concurrent algorithms via contextual refinement.  The members of the
+award committee were impressed with both the breadth and depth of the
+work, as well as the elegance of the exposition.

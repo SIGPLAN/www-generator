@@ -1,0 +1,21 @@
+---
+layout: default
+title: "2012: Robert Findler and Matthias Felleisen"
+---
+> For 2002 [Contracts for higher-order functions](http://dl.acm.org/citation.cfm?doid=583852.581484)  
+> 
+> **Citation**  
+> 
+> Assertion-based contracts have proven very useful for dynamically
+enforcing first-order program invariants in procedural languages, but
+until 2002 they had not been supported in languages with higher-order
+functions.  Findler and Felleisen's paper filled this gap, presenting
+"the first assertion-based contract checker for languages with
+higher-order functions."  The paper also spawned a great deal of
+follow-on work on such topics as the semantics of blame assignment and
+the integration of static typing and dynamic contract checking.
+Higher-order contracts have become a central component of the Racket
+(formerly PLT Scheme) system -- one of the major software artifacts of
+the functional-programming community -- which serves as both a
+research testbed and an effective tool for programming-language
+education.

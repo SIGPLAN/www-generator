@@ -1,0 +1,5 @@
+---
+layout: default
+title: "2013: Patrick Rondon"
+---
+Patrick Rondon&#8217;s dissertation makes several significant contributions to the field of automatic program verification.  It takes a type system -- a highly scalable yet not quite precise method of dealing with programs -- and refines it using Satisfiability Modulo Theory (SMT) techniques to compensate for the precision loss.  There are implementations for both OCaml and C.  The achieved degree of effectiveness and automation is astonishing: programs that are beyond the existing verification tools can be handled fully automatically within seconds.  It demonstrates that formal verification can yield significant reliability guarantees for mainstream software engineering, at a reasonable cost.  In addition, the thesis contains a comprehensive formalization with very detailed, readable proofs.  The members of the award committee were impressed by the quality of the work and the clarity of the presentation.

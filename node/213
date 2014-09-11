@@ -1,0 +1,6 @@
+---
+layout: default
+title: "2011: Hari K. Pyla, Virginia Tech"
+---
+> Hari Pyla's work is motivated by the need to leverage concurrency to achieve performance, and the challenge of avoiding deadlocks in concurrent shared memory programs. He has introduced Sammati, a new approach that transparently and deterministically detects and recovers from deadlocks, without requiring modification to source code. This approach not only avoids errors, but also allows more effective composition of lock-based code. Hari's system also supports coarse-grained speculative parallelism, supporting difficult-to-parallelize applications and achieving significant speedups in practice.
+

@@ -1,0 +1,20 @@
+---
+layout: default
+title: "2014: Neil Jones"
+---
+Neil Jones is a pioneer of programming-language methods.  He
+introduced control-flow analysis for higher-order programs,
+binding-time analysis to tame self-applicable partial evaluation, what
+is known today as "Jones optimality", and size-change termination
+analysis. Neil is also noted for bridges he established between
+programming languages and complexity/computability theory, e.g.,
+characterizing Turing's Universal Machine as self interpretation,
+Kleene's S-m-n theorem as partial evaluation, Kleene's second
+recursion theorem as reflection, and the expressive power of typed
+cons-free functional languages by means of complexity classes.  His
+pioneering work on complexity theory included the development of
+completeness for P and solving the spectrum problem (the basis of
+finite model theory).  Lastly, Neil is a tireless and inspiring
+mentor, and he has written several influential textbooks that are
+testaments to his thesis that programs are data objects and that
+programming languages are a cornerstone of computer science.

@@ -24,27 +24,31 @@ main = do
 --        print aliases
 
         let generate nm t = do
-                case M.lookup ("node/" ++ nm) aliases of
-                  Nothing -> print ("Can not find", nm)
-                  Just alias0 -> do
-                          let alias1 = if takeFileName alias0 == "Main"
-                                       then takeDirectory alias0
-                                       else alias0
-                          let fileName = "content/" ++ alias1 ++ ".md"
-                          createDirectoryIfMissing True (takeDirectory fileName)
+                fileName <- case M.lookup ("node/" ++ nm) aliases of
+                                Nothing ->
+                                      return $ "node/" ++ nm
+                                Just alias0 -> do
+--                                     putStrLn $ alias0 ++ "," ++ nm
+                                     let alias1 = if takeFileName alias0 == "Main"
+                                                     then takeDirectory alias0
+                                                     else alias0
+                                     return $ "content/" ++ alias1 ++ ".md"
+
+
+                createDirectoryIfMissing True (takeDirectory fileName)
 --                          print (fileName,takeDirectory fileName,t)
-                          case M.lookup nm revisions of
-                             Nothing -> print ("Can not find in dr_node_revisions", nm)
-                             Just (t',txt) | t /= t' -> print ("title mismatch",t,t',nm)
-                             Just (t',txt) -> do
-                               txt' <- markdown nm txt
-                               writeFile fileName $ unlines
-                                ["---"
-                                ,"layout: default"
-                                ,"title: " ++ "\"" ++ escape t ++ "\""
-                                ,"---"
-                                ] ++ escape (filter (/= '\r') txt')
-                                  ++ (if last txt' == '\n' then "" else "\n")
+                case M.lookup nm revisions of
+                   Nothing -> print ("Can not find in dr_node_revisions", nm)
+                   Just (t',txt) | t /= t' -> print ("title mismatch",t,t',nm)
+                   Just (t',txt) -> do
+                     txt' <- markdown nm txt
+                     writeFile fileName $ unlines
+                      ["---"
+                      ,"layout: default"
+                      ,"title: " ++ "\"" ++ escape t ++ "\""
+                      ,"---"
+                      ] ++ escape (filter (/= '\r') txt')
+                        ++ (if last txt' == '\n' then "" else "\n")
 
         sequence_ [ generate nm t
                   | (nm,t) <- nodes

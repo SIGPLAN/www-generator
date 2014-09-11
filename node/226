@@ -1,0 +1,22 @@
+---
+layout: default
+title: "2013: Didier Le Botlan and Didier R&#233;my"
+---
+> For 2003 [ML^F: Raising ML to the Power of System F](http://dl.acm.org/citation.cfm?doid=944746.944709)  
+> 
+> **Citation**  
+> 
+> Le Botlan and R&#233;my's paper on MLF presented a major technical
+breakthrough in type inference for first-class polymorphism.
+Remarkably, by going from ML to a system that is more expressive than
+System F, principal types could be recovered.  The paper was the first
+and only paper (to date) to present a type inference and unification
+algorithm with all the "good" features of ordinary ML inference and
+unification, except on a richer universe of types and constraints that
+allowed impredicative instantiation.  The MLF system enjoys most
+general unifiers, completeness properties, and robustness under
+program transformations, with user type annotations providing the
+oracles needed to reach the expressiveness of System F and beyond.
+The MLF paper has been highly influential on subsequent work in type
+inference for first-class polymorphism, and is a must-read for anyone
+interested in the topic.

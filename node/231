@@ -1,0 +1,24 @@
+---
+layout: default
+title: "2014: The GNU Compiler Collection (GCC)"
+---
+The GNU Compiler Collection (GCC) provides a portable, 
+production-quality, standards-compliant, highly optimizing compiler, 
+supporting more architectures, programming languages, and operating 
+environments than any other comparable tool.  It provides the 
+toolchain that underpins all of the GNU/Linux distributions, popular 
+websites, and embedded environments. 
+
+GCC provides the foundation for numerous experiments in programming 
+language design, including the early C++ language, numerous evolutions 
+of the C and C++ standards, parallel programming with OpenMP, and the 
+Go programming language.  GCC has been used by many research projects, 
+leading to high-impact publications and contributions to the 
+development trunk, including sophisticated instruction selection based 
+on declarative machine descriptions, auto-tuning techniques, 
+transactional memory, and polyhedral loop nest optimizations. 
+
+GCC is the product of hundreds of person-years of work over its 27 
+years of existence. This award recognizes the GCC developer community 
+for the substantial impact it has had on the programming language 
+community and the larger software industry. 

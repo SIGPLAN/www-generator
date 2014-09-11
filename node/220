@@ -1,0 +1,10 @@
+---
+layout: default
+title: "2013: The Coq proof assistant"
+---
+The Coq proof assistant provides a rich environment for interactive development of machine-checked formal reasoning.  Coq is having a profound impact on research on programming languages and systems, making it possible to extend foundational approaches to unprecedented levels of scale and confidence, and transfer them to realistic programming languages and tools.  It has been widely adopted as a research tool by the programming language research community, as evidenced by the many papers at SIGPLAN conferences whose results have been developed and/or verified in Coq.  It has also rapidly become one of the leading tools of choice for teaching the foundations of programming languages, with courses offered by many leading universities and a growing number of books emerging to support them.  Last but not least, these successes have helped to spark a wave of widespread interest in dependent type theory, the richly expressive core logic on which Coq is based.
+
+As a software system, Coq has been in continuous development for over 20 years, a truly impressive feat of sustained, research-driven engineering.  The Coq team continues to develop the system, bringing significant improvements in expressiveness and usability with each new release.
+
+In short, Coq is playing an essential role in our transition to a new era of formal assurance in mathematics, semantics, and program verification.
+
